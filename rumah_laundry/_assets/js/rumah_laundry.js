@@ -1,0 +1,1 @@
+console.log('Selamat datang di Laundry Matlab');
